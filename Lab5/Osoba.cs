@@ -8,7 +8,7 @@ namespace Lab5
 {
     internal class Osoba
     {
-        private string imie;
+        public string imie;
         public string nazwisko;
         public int wiek;
 
