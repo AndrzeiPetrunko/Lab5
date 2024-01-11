@@ -9,6 +9,7 @@
         public static void Zadanie1()
         {
             Console.WriteLine(1);
+            Console.WriteLine(2);
         }
     }
 }
